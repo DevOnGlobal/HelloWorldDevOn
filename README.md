@@ -1,5 +1,5 @@
-# Hello World
-DevOn Hello World
+# Hello World - DevOn
+This is a simple static Hello World website that can be deployed to a webserver.
 
 ## Get it up and running
 
