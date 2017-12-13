@@ -1,0 +1,11 @@
+{
+  "name": "devon-hello-world",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "static-server -i index.html",
+    "static-server": "./node_modules/.bin/static-server"
+  },
+  "devDependencies": {
+    "static-server": "^2.0.6"
+  }
+}
